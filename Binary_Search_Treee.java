@@ -1,3 +1,6 @@
+/* Homework #5 for CS 3353 - Data Structures and Algorithms
+ * Uses a text menu to provide options for creating, searching, and traversing a binary search tree
+ */
 import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.Queue;
