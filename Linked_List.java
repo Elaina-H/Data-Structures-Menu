@@ -1,4 +1,4 @@
-/* Homework #2 - Elaina Hinkle
+/* Homework #2 for CS3353 - Data Structures and Algorithms
  * Program to create and modify single and double linked list using a menu  
  */
 import java.util.*;
